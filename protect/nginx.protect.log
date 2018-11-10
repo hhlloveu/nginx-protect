@@ -1,0 +1,4 @@
+2018-11-10 11:23:35 Reboot Reboot Reboot!!!
+2018-11-10 11:23:35 nginx protect(/data/protect/nginx.protect.sh) starting ...
+2018-11-10 11:23:35 nginx protect is started.
+2018-11-10 11:23:37nginx: [emerg] invalid socket number "/usr/bin/nginx" in NGINX environment variable, ignoring
